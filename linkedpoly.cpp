@@ -1,3 +1,4 @@
+//This is a .cpp file
 #include<iostream>
 #include<math.h>
 using namespace std;
